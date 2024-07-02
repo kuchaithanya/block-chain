@@ -1,0 +1,1 @@
+1.  see .solhint.json file in git
